@@ -1644,12 +1644,12 @@ th.rotate > div > span {
   padding: 0 !important;
 }
 
-.handle {
-    
-}
-
 #draw {
     border: 1px solid black;
+}
+
+.handle {
+    
 }
 
 .terminal {
