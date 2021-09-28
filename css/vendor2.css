@@ -1644,6 +1644,11 @@ th.rotate > div > span {
   padding: 0 !important;
 }
 
+.help-list li {
+    line-height: 2.5em;
+    height: auto;
+}
+
 #draw {
     border: 1px solid black;
 }
@@ -1655,9 +1660,4 @@ th.rotate > div > span {
 .terminal {
     border: 1px solid black;
     width: 10px;
-}
-
-.help-list li {
-    line-height: 2.5em;
-    height: auto;
 }
