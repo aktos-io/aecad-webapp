@@ -875,6 +875,13 @@ th.rotate > div > span {
     fill: whitesmoke;
 }
 
+.shadowed-button {
+    text-shadow: -2px 0px 6px rgba(150, 0, 255, 1) !important;
+    color: white !important;
+}
+
+.ldBar-label:after {
+}
 .overlap-container {
     position: relative;
 }
@@ -884,13 +891,6 @@ th.rotate > div > span {
     top: 0;
     left: 0;
     width: 100% !important;
-}
-
-.ldBar-label:after {
-}
-.shadowed-button {
-    text-shadow: -2px 0px 6px rgba(150, 0, 255, 1) !important;
-    color: white !important;
 }
 
 /*!
